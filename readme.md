@@ -5,6 +5,7 @@
 	|-- mincms
 		|-- conf			(配置文件)
 		|-- models			(模型)
+		|-- routers			(路由控制)
 		|-- public			(公共静态文件)
 		|-- templets   		(模板主题)
 		|-- utils      		(基础lib)
